@@ -1,5 +1,6 @@
 # AES Cryptography
 ![N|Solid](https://img.icons8.com/color/48/000000/visual-studio.png)
+
 Implementação da Criptografia AES 128 Bits
 
 ### Pré-requisitos
